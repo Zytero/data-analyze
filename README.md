@@ -1,4 +1,10 @@
 # data-analyze
+<style>
+    p {
+  font-size: 34px;
+}
+</style>
+
 <p align=center>Міністерство освіти і науки України</p>
 <br>
 <p align=center> Національний технічний університет України</p>
