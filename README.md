@@ -1,5 +1,5 @@
 # data-analyze
-<p align=center style="font-size: 34px;">Міністерство освіти і науки України</p>
+<p align=center style="font-size: 104px;">Міністерство освіти і науки України</p>
 <br>
 <p align=center style="font-size: 30px;"> Національний технічний університет України</p>
 <p align=center style="font-size: 30px;">"Київський політехнічний інститут імені Ігоря Сікорського"</p>
