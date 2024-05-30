@@ -1,0 +1,24 @@
+#для встановлення за допомогою pip потрібно закоментувати/видалити gdal (який потрібно буде встановити окремо) та написати: pip install -r requirements.txt
+
+#для встановлення за допомогою conda, створюємо env (conda create --name <назва> --yes python=3.11.8) та завантажуємо пакети з цього файлу (conda install -c conda-forge --file requirements.txt --yes)
+
+ipykernel == 6.29.3
+#lab2
+urllib3 == 2.2.1
+pandas == 2.2.2
+#lab3
+seaborn == 0.13.2
+dataspyre == 0.2.8
+matplotlib == 3.8.4
+#lab4
+openpyxl
+numpy == 1.26.4
+scipy == 1.13.1
+scikit-learn == 1.5.0
+#lab5
+ipympl
+bokeh == 3.4.1
+#lab7
+gdal == 3.8.5
+rasterio == 1.3.10
+sentinelhub == 3.10.2
